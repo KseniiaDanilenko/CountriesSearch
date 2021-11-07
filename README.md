@@ -1,5 +1,4 @@
 # CountriesSearch
-TASK
 ⦁	Application’s header
 ⦁	Application’s header with the title “Countries Search” should be added at the top of the applicationApplication form
 ⦁	Form should consist of two fields
